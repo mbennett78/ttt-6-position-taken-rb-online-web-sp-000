@@ -9,7 +9,7 @@ def position_taken?(board, position)
 
   end
 
-  puts taken
+return taken
 
 
 end
