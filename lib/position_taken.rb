@@ -2,7 +2,7 @@
 def position_taken?(board, position)
   taken = nil
 
-  if board[position] ==" " || board[position]== "  "
+  if board[position] =="" || board[position]== " "
     taken = false
   else
     taken = true
