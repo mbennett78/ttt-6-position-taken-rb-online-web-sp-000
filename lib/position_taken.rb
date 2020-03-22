@@ -4,7 +4,7 @@ def position_taken?(board, position)
 
   if board[position] ==" " || board[position]== "  "
     taken = false
-  else 
+  else
     taken = true
 
   end
@@ -14,5 +14,3 @@ def position_taken?(board, position)
   return taken
 
 end
-
-
