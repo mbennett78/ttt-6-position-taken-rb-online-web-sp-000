@@ -11,6 +11,5 @@ def position_taken?(board, position)
 
   puts taken
 
-  return taken
 
 end
